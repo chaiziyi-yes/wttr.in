@@ -499,7 +499,7 @@ The result will look something like the following:
 
 Most of these values are self-explanatory, aside from `weatherCode`. The `weatherCode` is an enumeration which you can find at either [the WorldWeatherOnline website](https://www.worldweatheronline.com/developer/api/docs/weather-icons.aspx) or [in the wttr.in source code](https://github.com/chubin/wttr.in/blob/master/lib/constants.py).
 
-A smaller version `format=j2` without hourly data is also availble. Can work well for microcontrollers with limited memory.
+A smaller version `format=j2` without hourly data is also available. Can work well for microcontrollers with limited memory.
 
 ### Prometheus Metrics Output
 
