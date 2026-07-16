@@ -1,13 +1,12 @@
 
-*wttr.in — the right way to ~check~ `curl` the weather!*
+*wttr.in — czy's personal weather instance!*
 
-wttr.in is a console-oriented weather forecast service that supports various information
+This is czy's weather instance, a console-oriented weather forecast service that supports various information
 representation methods like terminal-oriented ANSI-sequences for console HTTP clients
 (curl, httpie, or wget), HTML for web browsers, or PNG for graphical viewers.
 
-Originally started as a small project, a wrapper for [wego](https://github.com/schachmat/wego),
-intended to demonstrate the power of the console-oriented services,
-*wttr.in* became a popular weather reporting service, handling tens of millions[¹](#wttrin-usage-stats) of queries daily.
+czy deployed and customized this wttr.in instance for personal use, based on the original project by [chubin](https://github.com/chubin/wttr.in).
+It supports various output formats and can be accessed from shell or web browser.
 
 You can see it running here: [wttr.in](https://wttr.in).
 
